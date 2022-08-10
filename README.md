@@ -1,9 +1,10 @@
 # NotesApp
-# MVVM | Room | Jetpack Compose
+MVVM | Room | Jetpack Compose
 
 Android приложение для добавление заметок.
 
 Можно добавлять, удалять, обновлять заметки. 
+
 Доступна сортировка по заголовку, дате добавления и цвету.
 
 ![изображение](https://user-images.githubusercontent.com/47570845/183978794-3aced6ba-2f93-4245-be79-f9f4334681f0.png)
