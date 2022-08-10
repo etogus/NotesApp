@@ -1,7 +1,7 @@
 # NotesApp
-MVVM | Room | Jetpack Compose
+Kotlin | MVVM | Room | Jetpack Compose
 
-Android приложение для добавление заметок.
+Android приложение для добавления заметок.
 
 Можно добавлять, удалять, обновлять заметки. 
 
